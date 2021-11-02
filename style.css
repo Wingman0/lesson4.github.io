@@ -1,0 +1,42 @@
+body{
+background: -webkit-linear-gradient(90deg, rgb(231, 100, 100) 14%, rgb(83, 93, 94) 82%);
+background: -moz-linear-gradient(90deg, rgb(231, 100, 100) 14%, rgb(83, 93, 94) 82%);
+background: linear-gradient(90deg, rgb(231, 100, 100) 14%, rgb(83, 93, 94) 82%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+h1 span {
+     color: mediumaquamarine;
+}
+td {
+    border: 2px solid black
+}
+tr {
+    border: 2px solid black
+}
+.main {
+    border: black;
+}
+table {
+    border-spacing: 20px;
+}
+.HH {
+    text-align: center;
+}
+.main-left {
+    -webkit-box-shadow: 12px 12px 8px 0px rgba(246, 0, 0, 0.2);
+    -moz-box-shadow: 12px 12px 8px 0px rgba(246, 0, 0, 0.2);
+    box-shadow: 12px 12px 8px 0px rgba(246, 0, 0, 0.2);;
+text-align: center;
+padding: 30px;
+}
+.main-right {
+    padding: 15px;
+    -webkit-box-shadow: 12px 12px 8px 0px rgba(246, 0, 0, 0.2);
+    -moz-box-shadow: 12px 12px 8px 0px rgba(246, 0, 0, 0.2);
+    box-shadow: 12px 12px 8px 0px rgba(246, 0, 0, 0.2);
+}
+img {
+    width: 170px;
+    height: 220px
+}
